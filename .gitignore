@@ -1,0 +1,7 @@
+*.egg-info
+*.pot
+*.py[co]
+.tox/
+__pycache__
+node_modules/
+.DS_Store
